@@ -22,3 +22,6 @@ Python 3.x installed on your machine.
 2. Navigate to the project directory:
 3. Run the program:
 4. Follow the on-screen prompts to play the game.
+
+## Acknowledgements
+This project was inspired by common beginner exercises in Python programming.
