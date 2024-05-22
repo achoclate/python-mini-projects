@@ -1,4 +1,4 @@
-2. # Guess the Number Game
+1. # Guess the Number Game
 This repository contains a simple Python project where users are challenged to guess a randomly generated number within a user-specified range. The game provides feedback on whether the user's guess is too high or too low until the correct number is guessed.
 
 ## Features
