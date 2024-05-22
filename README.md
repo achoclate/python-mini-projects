@@ -1,4 +1,4 @@
-1. # Guess the Number Game
+ # 1. Guess the Number Game
 This repository contains a simple Python project where users are challenged to guess a randomly generated number within a user-specified range. The game provides feedback on whether the user's guess is too high or too low until the correct number is guessed.
 
 ## Features
@@ -26,7 +26,7 @@ Python 3.x installed on your machine.
 ## Acknowledgements
 This project was inspired by common beginner exercises in Python programming.
 
-2. # Quiz Game
+ # 2. Quiz Game
 Welcome to the Quiz Game! This is a simple Python project where users are prompted to answer several questions about geography. The game keeps track of the user's score and provides feedback on each answer.
 
 ## How It Works
@@ -51,4 +51,6 @@ Python 3.x installed on your machine.
 
 ## Acknowledgements
 This project was inspired by basic Python programming exercises and is designed to be a fun way to practice Python skills.
+
+# 3. 
 
